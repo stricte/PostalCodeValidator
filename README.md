@@ -5,7 +5,7 @@ Based on PHP version https://github.com/sirprize/postal-code-validator
 ### Check if we have mask defined for specific country
      PostalCodeValidatorJs.hasCountry('PL') //returns boolean
 ### Check if given postal code is valid
-     PostalCodeValidatorJs.isValid('PL') //returns boolean
+     PostalCodeValidatorJs.isValid('80-210', 'PL') //returns boolean
 
 ## Formatting
 
